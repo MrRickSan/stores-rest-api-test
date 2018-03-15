@@ -1,0 +1,4 @@
+*.idea
+*.idea/workspace.xml
+section7/starter_code/__pycache__/*.pyc
+*.pyc
